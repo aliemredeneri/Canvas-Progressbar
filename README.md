@@ -2,11 +2,6 @@
 Progressbar 
 
 
+<img src ="images/1.png" height="450" width="250">          <img src ="images/3.png" height="450" width="250">
 
-
-![](images/1.png)
-![](images/3.png)
-![](images/2.png)
-
-
-
+<img src ="images/2.png" height="450" width="250">
